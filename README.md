@@ -8,7 +8,7 @@
 
 ### Uma aplicação desenvolvida utilizando como base o aplicativo Trello, tendo como objetivo principal o estudo e aprendizado sobre a ferramenta.
 
-##Para utilizar
+## Para utilizar
 ### Baixe o projeto em sua maquina
 ### rode o comando yarn install ou npm install para que as dependencias sejam instaladas corretamentes
 ### em seguida use o comando yarn run android ou npm run android para rodar em um dispositivo/emulador android ou yarn run ios ou npm run ios para rodar em um dispositivo/emulador IOS
